@@ -1,0 +1,67 @@
+body{
+    background-image: url(1473986-popular-acoustic-guitar-wallpaper-high-resolution-1440x2560-screen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1:hover{
+    color: rgb(21, 246, 5);
+}
+p:hover{
+    color: rgb(9, 247, 13);
+}
+li{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 200px;
+    font-size: 22px;
+    font-family: Tahoma;
+    color: greenyellow;
+}
+ol{
+    color: aquamarine;
+}
+li a{
+    padding: 8px 16px;
+    text-decoration: none;
+    display: block;}
+ul{
+    margin-top: 20px;
+    font-family: fantasy;
+}
+.heading{
+    color: yellowgreen;
+    margin-right: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: rgb(255, 153, 1);
+}
+h2:hover{
+    color: rgb(78, 251, 4);
+}
+li a:hover{
+    color: aliceblue;
+    background-color: #4e0303;
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    color: black;
+    font-family: fantasy;
+    font-size: 22px;
+}
+ol{
+    color: aliceblue;
+    list-style: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{width: 3000; height: 500;}
+#div mi{
+    width:1000px;
+    margin:auto;
+    width: 3000; height: 500;
+  }
